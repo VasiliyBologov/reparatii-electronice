@@ -33,16 +33,16 @@ function TopBar() {
   const handleCloseNavMenu = (page) => {
     setAnchorElNav(null);
     var link = ""
-    if (page == "Servicii") {
+    if (page === "Servicii") {
       link = "servicii"
     }
-    if (page == "Produse") {
+    if (page === "Produse") {
       link = "produse"
     }
-    if (page == "Contact") {
+    if (page === "Contact") {
       link = "contact"
     }
-    navigate("/" + link);
+    navigate(link);
   };
 
   const handleCloseUserMenu = () => {

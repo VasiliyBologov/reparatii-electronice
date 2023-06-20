@@ -36,12 +36,22 @@ export default function Router(props) {
       ],
     },
     {
-      path: '/',
+      path: '/reparatii-electronice',
       element: <Layout />,
       children: [
-        { path: '/', element: <Home /> },
+        { path: '', element: <Home /> },
+        { path: 'contact', element: <Contact /> },
+        { path: 'produse', element: <Produse /> },
+        { path: 'servicii', element: <Servicii /> },
       ],
     },
+    // {
+    //     path: '/',
+    //     element: <Layout />,
+    //     children: [
+    //       { path: '/', element: <Home /> },
+    //     ],
+    //   },
     { path: '*', element: <Error /> },
   ]);
 }
