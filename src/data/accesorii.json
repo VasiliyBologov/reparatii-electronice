@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Cablu de alimentare AC computer/printer",
+        "price": "70,00 lei",
+        "producator": "Mejec",
+        "lungimea": "1.2 m",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/cabluAlimentarePC-300x300.jpg"
+    },
+    {
+        "name": "Cablu de alimentare AC printer",
+        "price": "60,00 lei",
+        "producator": "China",
+        "lungimea": "1.2 m",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/cabluAlimentare-300x300.jpg"
+    },
+    {
+        "name": "USB Cablu printer AM-BM 1.8 m",
+        "price": "60,00 lei",
+        "producator": "China",
+        "lungimea": "1.8 m",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+    },
+    {
+        "name": "USB Cablu printer AM-BM 3.0 m",
+        "price": "75,00 lei",
+        "producator": "Mejec",
+        "lungimea": "1.2 m",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+    }
+]
