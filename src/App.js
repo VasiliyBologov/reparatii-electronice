@@ -1,25 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import TopBar from './components/TopBar';
 
-function App() {
+import Home from '../src/pages/Home'
+import Produse from '../src/pages/Produse'
+import Router from './routes';
+
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Reparatii electronice.
-        </p>
-        <a
-          className=""
-          href="https://incarcare.md/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          incarcare.md
-        </a>
-      </header>
+      {/* <TopBar /> */}
+      <Router/>
     </div>
   );
 }
 
-export default App;
