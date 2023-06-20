@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reparatii-electronice/static/css/main.abd64e84.css",
-    "main.js": "/reparatii-electronice/static/js/main.5d2500d9.js",
+    "main.js": "/reparatii-electronice/static/js/main.084ce699.js",
     "static/js/787.3eb6e7ad.chunk.js": "/reparatii-electronice/static/js/787.3eb6e7ad.chunk.js",
     "index.html": "/reparatii-electronice/index.html",
     "main.abd64e84.css.map": "/reparatii-electronice/static/css/main.abd64e84.css.map",
-    "main.5d2500d9.js.map": "/reparatii-electronice/static/js/main.5d2500d9.js.map",
+    "main.084ce699.js.map": "/reparatii-electronice/static/js/main.084ce699.js.map",
     "787.3eb6e7ad.chunk.js.map": "/reparatii-electronice/static/js/787.3eb6e7ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.5d2500d9.js"
+    "static/js/main.084ce699.js"
   ]
 }
