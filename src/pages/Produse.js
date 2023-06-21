@@ -9,6 +9,8 @@ import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
 
 import AccesoriiData from '../data/accesorii.json'
+import HartieData from '../data/hartie.json'
+import CernealaData from '../data/cerneala.json'
 
 export default function Produse() {
   const [type, setType] = React.useState('cartuse');
@@ -17,7 +19,7 @@ export default function Produse() {
     setType(newType);
   };
   return (
-    <Container maxWidth="lg" sx={{ bgcolor: '#cfe8fc'}}>
+    <Container maxWidth="lg" >
         <ToggleButtonGroup
           color="primary"
           value={type}
@@ -57,13 +59,72 @@ function Cartuse() {
   )
 }
 function Cerneala() {
+  const [data, setData] = React.useState(CernealaData);
+
   return (
-    <div>Cerneala</div>
+    <Grid container spacing={2} sx={{textAlign: 'center'}}>
+    {data.map((d) => (
+      <Grid item xs={12} sm={6} md={3} sx={{textAlign: 'center'}}>
+          <Card sx={{ maxWidth: 345, mb: 2 }}>
+            <CardMedia
+              sx={{ height: 140 }}
+              image={d.photo}
+              title={d.name}
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="div">
+                {d.name}
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+              Producator: {d.producator}
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+              Culori disponibile: {d.culori}
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+              Pentru modele de imprimante: {d.modele}
+              </Typography>
+              <Typography variant="h5" color="text.primary">
+                {d.price}
+              </Typography>
+            </CardContent>
+          </Card>
+        </Grid>
+    ))}
+    </Grid>
   )
 }
 function Hartie() {
+  const [data, setData] = React.useState(HartieData);
+
   return (
-    <div>Hartie</div>
+    <Grid container spacing={2} sx={{textAlign: 'center'}}>
+    {data.map((d) => (
+      <Grid item xs={12} sm={6} md={3} sx={{textAlign: 'center'}}>
+          <Card sx={{ maxWidth: 345, mb: 2 }}>
+            <CardMedia
+              sx={{ height: 140 }}
+              image={d.photo}
+              title={d.name}
+            />
+            <CardContent>
+              <Typography gutterBottom variant="h5" component="div">
+                {d.name}
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+              Producator: {d.producator}
+              </Typography>
+              <Typography variant="body2" color="text.secondary">
+                Densitate: {d.densitate}
+              </Typography>
+              <Typography variant="h5" color="text.primary">
+                {d.price}
+              </Typography>
+            </CardContent>
+          </Card>
+        </Grid>
+    ))}
+    </Grid>
   )
 }
 
