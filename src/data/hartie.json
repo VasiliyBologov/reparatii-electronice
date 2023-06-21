@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Hartie A4 HP Copy 500 foi",
+        "price": "110,00 lei",
+        "producator": "HP",
+        "densitate": "80 g/m2",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/cabluAlimentarePC-300x300.jpg"
+    },
+    {
+        "name": "Hartie Foto A4 20 buc",
+        "price": "60,00 lei",
+        "producator": "4print",
+        "densitate": "200 g/m2",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/tn1030-300x300.jpg"
+    },
+    {
+        "name": "Hartie Foto A4 100 buc",
+        "price": "100,00 lei",
+        "producator": "4print",
+        "densitate": "110 g/m2",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+    },
+    {
+        "name": "Hartie Foto 10*15cm 20 buc",
+        "price": "30,00 lei",
+        "producator": "4print",
+        "densitate": "200 g/m2",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+    }
+]
