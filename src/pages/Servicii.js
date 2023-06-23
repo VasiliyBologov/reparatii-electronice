@@ -23,7 +23,7 @@ function Servicii() {
             Reparații PC/Laptop. Efectuăm reparații PC/Laptopuri 
             </Typography>
             <Typography variant="h5" color="text.primary">
-            Цена: 
+            Achitarea: numerar sau transfer bancar
             </Typography>
             <Typography variant="body2" color="text.secondary">
             DIAGNOSTICARE PC/LAPTOP
@@ -46,7 +46,7 @@ function Servicii() {
             Reparatii imprimante/Multifunctionale
             </Typography>
             <Typography variant="h5" color="text.primary">
-            Цена: 
+            Achitarea: numerar sau transfer bancar
             </Typography>
             <Typography variant="body2" color="text.secondary">
             reparatia imprimante/ Multifunctionale de model: CANON, HP, SAMSUNG, EPSON, XEROX, KYOCERA, PANASONIC, BROTHER, KONICA MINOLTA, LENOVO si alte.
@@ -84,7 +84,7 @@ function Servicii() {
             Reincarcare cartuse/ Regenerare cartuse
             </Typography>
             <Typography variant="h5" color="text.primary">
-            Цена: 
+            Achitarea: numerar sau transfer bancar
             </Typography>
             <Typography variant="body2" color="text.secondary">
             Reincarcare si regenerare cartuse de model: CANON, HP, SAMSUNG, EPSON, XEROX, KYOCERA, PANASONIC, BROTHER, KONICA MINOLTA, LENOVO si alte.
@@ -99,7 +99,7 @@ function Servicii() {
             Reparatii TV/Monitor LED si LCD
             </Typography>
             <Typography variant="h5" color="text.primary">
-            Цена: 
+            Achitarea: numerar sau transfer bancar
             </Typography>
             <Typography variant="body2" color="text.secondary">
             Reparatii Televizoare LED
