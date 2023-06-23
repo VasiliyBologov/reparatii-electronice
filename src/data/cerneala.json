@@ -1,6 +1,6 @@
 [
     {
-        "name": "Cerneala Epson Original 103 Black/Cyan/Magenta/Yellow (65 ml)",
+        "name": "Cerneala Epson Original 103",
         "price": "180.00 lei",
         "producator": "Seiko Epson",
         "culori": "Bk/C/M/Y",
@@ -8,27 +8,51 @@
         "photo": "https://incarcare.md/wp-content/uploads/2021/02/epsoninkTec-300x300.jpeg"
     },
     {
-        "name": "Cablu de alimentare AC printer",
-        "price": "60,00 lei",
-        "producator": "China",
-        "culori": "Bk/C/M/Y",
+        "name": "Cerneala Epson INKTEC 100ml",
+        "price": "95.00 lei",
+        "producator": "Corea se Sud",
+        "culori": "Bk/C/M/Y/LC/LM",
         "modele": "L1110/L3100/L3101/L3110/3111/L3116/L3150/L3151/L3156/L3160/L5190",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/cabluAlimentare-300x300.jpg"
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/epsoninkTec-300x300.jpeg"
     },
     {
-        "name": "USB Cablu printer AM-BM 1.8 m",
-        "price": "60,00 lei",
-        "producator": "China",
+        "name": "Cerneala Epson WWM 200ml",
+        "price": "120.00 lei",
+        "producator": "Ucraina",
         "culori": "Bk/C/M/Y",
         "modele": "L1110/L3100/L3101/L3110/3111/L3116/L3150/L3151/L3156/L3160/L5190",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/epsonCern-300x300.jpg"
     },
     {
-        "name": "USB Cablu printer AM-BM 3.0 m",
-        "price": "75,00 lei",
-        "producator": "Mejec",
+        "name": "Cerneala Canon INKTEC 100ml",
+        "price": "95,00 lei",
+        "producator": "Corea de Sud",
         "culori": "Bk/C/M/Y",
-        "modele": "L1110/L3100/L3101/L3110/3111/L3116/L3150/L3151/L3156/L3160/L5190",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+        "modele": "TS5040/MG5740/TS6040/MG6840/MG7740/TS8040/TS9040",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/epsoninkTec-300x300.jpeg"
+    },
+    {
+        "name": "Cerneala Canon WWM 100ml",
+        "price": "70.00 lei",
+        "producator": "Ucraina",
+        "culori": "Bk/C/M/Y",
+        "modele": "IP2700/IP3600/IP4600/IP4700/IP4840/IP4940/IX6540/MG5140/MG5240/MG5340/MG6140/MG6240/MG8140/MG8240/MP230/MP235/MP240/MP250/MP252/MP260/MP270/MP272/MP280/MP282/MP490/MP492/MP495/MP540/MP550/MP560/MP620/MP630/MP640/MP980/MP990/MX320/MX330/MX340/MX350/MX360/MX410/MX420/MX714/MX860/MX870/MX884/MX894",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/CanonCern-300x300.jpg"
+    },
+    {
+        "name": "Cerneala HP WWM 100ml",
+        "price": "70.00 lei",
+        "producator": "Ucraina",
+        "culori": "Bk/C/M/Y",
+        "modele": "HP Deskjet1000/1050/1050A/1051A/1510/2000/2050/2050A",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/CanonCern-300x300.jpg"
+    },
+    {
+        "name": "Cerneala HP H77 WWM 100ml",
+        "price": "90.00 lei",
+        "producator": "Ucraina",
+        "culori": "Bk/C/M/Y",
+        "modele": "HP Photosmart8200/d6100/7100/7200/7300/7400",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/CanonCern-300x300.jpg"
     }
 ]
