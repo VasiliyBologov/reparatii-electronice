@@ -4,27 +4,34 @@
         "price": "110,00 lei",
         "producator": "HP",
         "densitate": "80 g/m2",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/cabluAlimentarePC-300x300.jpg"
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/captainA4-300x300.jpg"
     },
     {
         "name": "Hartie Foto A4 20 buc",
         "price": "60,00 lei",
         "producator": "4print",
         "densitate": "200 g/m2",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/tn1030-300x300.jpg"
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/photoPaper-300x300.jpg"
     },
     {
         "name": "Hartie Foto A4 100 buc",
-        "price": "100,00 lei",
+        "price": "105,00 lei",
         "producator": "4print",
         "densitate": "110 g/m2",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/photoPaper-300x300.jpg"
     },
     {
         "name": "Hartie Foto 10*15cm 20 buc",
-        "price": "30,00 lei",
+        "price": "25,00 lei",
         "producator": "4print",
         "densitate": "200 g/m2",
-        "photo": "https://incarcare.md/wp-content/uploads/2021/09/usbCablu.jpg"
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/photoPaper-300x300.jpg"
+    },
+    {
+        "name": "Hartie Foto 10*15cm 20 buc",
+        "price": "35,00 lei",
+        "producator": "4print",
+        "densitate": "260 g/m2",
+        "photo": "https://incarcare.md/wp-content/uploads/2021/02/photoPaper-300x300.jpg"
     }
 ]
